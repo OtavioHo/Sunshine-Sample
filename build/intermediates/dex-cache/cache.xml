@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/otavio/Documents/Projects/Sunshine/Sunshine-Myversion/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/home/otavio/Documents/Projects/Sunshine/Sunshine-Myversion/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.0_67ac9f9c9a6a0c97ee8f251ef4e9f276dc1962d0/classes.dex" />
+    </item>
+    <item
+        jar="/home/otavio/Documents/Projects/Sunshine/Sunshine-Myversion/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="/home/otavio/Documents/Projects/Sunshine/Sunshine-Myversion/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.0_ffa63826a8d1593b59c511468580c17ab45b35f3/classes.dex" />
+    </item>
+    <item
+        jar="/home/otavio/Documents/Projects/Sunshine/Sunshine-Myversion/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/home/otavio/Documents/Projects/Sunshine/Sunshine-Myversion/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.0_f4ef888259ec3b6d8a2b781b70cb61b6bd7ad080/classes.dex" />
+    </item>
+    <item
+        jar="/home/otavio/Documents/Projects/Sunshine/Sunshine-Myversion/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/home/otavio/Documents/Projects/Sunshine/Sunshine-Myversion/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.0_d36ae9a4ce541a650a54acff6333f0ea9a5bfbeb/classes.dex" />
+    </item>
+    <item
+        jar="/home/otavio/Documents/Projects/Sunshine/Sunshine-Myversion/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="cb31c927ee56f4bd2e00d0e577fde4af1a02bf31">
+        <dex dex="/home/otavio/Documents/Projects/Sunshine/Sunshine-Myversion/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_07afd84c59c79fdd9067bbac6624648fc831b08c/classes.dex" />
+    </item>
+    <item
+        jar="/home/otavio/Documents/Projects/Sunshine/Sunshine-Myversion/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/home/otavio/Documents/Projects/Sunshine/Sunshine-Myversion/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.0_49ff4c01b8c9177b77d4e4eadb0912aa94056d4d/classes.dex" />
+    </item>
+    <item
+        jar="/home/otavio/Documents/Projects/Sunshine/Sunshine-Myversion/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/home/otavio/Documents/Projects/Sunshine/Sunshine-Myversion/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.0_b02bfa819ac4e6b30d6136ff67de0f834a91f689/classes.dex" />
+    </item>
+    <item
+        jar="/home/otavio/Documents/Projects/Sunshine/Sunshine-Myversion/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/home/otavio/Documents/Projects/Sunshine/Sunshine-Myversion/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_02f04e74402be699ccda1dd1ea035e2b4f138d72/classes.dex" />
+    </item>
+    <item
+        jar="/home/otavio/Documents/Projects/Sunshine/Sunshine-Myversion/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/home/otavio/Documents/Projects/Sunshine/Sunshine-Myversion/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.0_814765ef3668bf163b197ce4587b6d5edfb15deb/classes.dex" />
+    </item>
+    <item
+        jar="/home/otavio/Documents/Projects/Sunshine/Sunshine-Myversion/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/home/otavio/Documents/Projects/Sunshine/Sunshine-Myversion/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_f80ebfcac61dbd271f7c4cae9da037620a0eb005/classes.dex" />
+    </item>
+    <item
+        jar="/home/otavio/Documents/Projects/Sunshine/Sunshine-Myversion/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/home/otavio/Documents/Projects/Sunshine/Sunshine-Myversion/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.0_09716930fca8643b350d1ebdc33d2e7143096953/classes.dex" />
+    </item>
+    <item
+        jar="/home/otavio/Documents/Projects/Sunshine/Sunshine-Myversion/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/home/otavio/Documents/Projects/Sunshine/Sunshine-Myversion/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.0_7cc73a9ad514fc6197040465d6a269c189b1f5f5/classes.dex" />
+    </item>
+    <item
+        jar="/home/otavio/Documents/Projects/Sunshine/Sunshine-Myversion/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/home/otavio/Documents/Projects/Sunshine/Sunshine-Myversion/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_b85de4114384ad819e80c523f0b45ee01091a2f6/classes.dex" />
+    </item>
+    <item
+        jar="/home/otavio/Documents/Projects/Sunshine/Sunshine-Myversion/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/home/otavio/Documents/Projects/Sunshine/Sunshine-Myversion/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_610af78afaafffa3cac232baf5778dd7983c8e0f/classes.dex" />
+    </item>
+    <item
+        jar="/home/otavio/Documents/Projects/Sunshine/Sunshine-Myversion/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/home/otavio/Documents/Projects/Sunshine/Sunshine-Myversion/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_18a435cdc24bb446cf22c6dd207751638662afb9/classes.dex" />
+    </item>
+    <item
+        jar="/home/otavio/Documents/Projects/Sunshine/Sunshine-Myversion/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="/home/otavio/Documents/Projects/Sunshine/Sunshine-Myversion/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.0_5edc2f81084f5d4b0fae56398c74160438057b99/classes.dex" />
+    </item>
+    <item
+        jar="/home/otavio/Documents/Projects/Sunshine/Sunshine-Myversion/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="c72c6fd14e11152d5d04950bd949b4f9aa02fc6c">
+        <dex dex="/home/otavio/Documents/Projects/Sunshine/Sunshine-Myversion/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_24b8524d8585a2dac5b4cf843a8b7efb135ca3dd/classes.dex" />
+    </item>
+    <item
+        jar="/home/otavio/Documents/Projects/Sunshine/Sunshine-Myversion/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/home/otavio/Documents/Projects/Sunshine/Sunshine-Myversion/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.0_7cb37f8d7de796cb1aa520348113885e60455bb0/classes.dex" />
+    </item>
+    <item
+        jar="/home/otavio/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/home/otavio/Documents/Projects/Sunshine/Sunshine-Myversion/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.0_9d684390960cdfb4db7f0763b02667d543ea089c/classes.dex" />
+    </item>
+
+</items>
